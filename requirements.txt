@@ -1,0 +1,11 @@
+# Core dependencies
+gradio
+selenium
+matplotlib
+requests
+playsound
+cryptography
+
+# For ChromeDriver/Selenium (user must provide correct version)
+# chromedriver-binary (optional, if you want to auto-install)
+# For Windows sound fallback (optional, handled in code)

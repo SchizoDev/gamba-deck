@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Chrome and Chromedriver binaries
+chrome-win64/
+chromedriver-win64/
+
+# Gamba Deck local settings/keys
+.gamba_deck_settings
+.gamba_deck_key
