@@ -4,6 +4,21 @@ Gamba Deck is a Gradio webapp that scrapes market questions and outcomes from a 
 
 ---
 
+
+![Gamba Deck Example UI](assets/web/web-example.png)
+
+---
+
+# Live Demo
+
+See it in action on YouTube:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ii_AZUivdVg 
+" target="_blank"><img src="http://img.youtube.com/vi/ii_AZUivdVg /0.jpg" 
+alt="" width="240" height="180" border="10" /></a>
+
+---
+
 # Setup
 
 Clone the repo and install dependencies:
@@ -59,20 +74,6 @@ You need an [OpenRouter API key](https://openrouter.ai/) to use the AI models. E
 # Need More Help?
 
 ask chatgpt
-
----
-
-# Live Demo
-
-See it in action on YouTube:
-
-[Demo Video](https://www.youtube.com/@SchizoDev/)
-
----
-
-# Screenshot
-
-![Gamba Deck Example UI](assets/web/web-example.png)
 
 ---
 
